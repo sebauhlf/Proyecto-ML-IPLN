@@ -1,7 +1,7 @@
 # Proyecto-ML-IPLN
 Detección de Clickbait en Titulares de Noticias
 
-Proyecto del curso Introducción al Procesamiento del Lenguaje Natural — Facultad de Ingeniería, UdelaR.
+Proyecto del curso Introducción al Procesamiento del Lenguaje Natural, Facultad de Ingeniería, UdelaR.
 
 Descripción
 
